@@ -13,14 +13,37 @@
 /* BASE RULES */
 /**************/
 
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+table, th, td {
+border: 1px solid white;
+background-color:#984b43;
+
+}
+
+td {
+vertical-align: middle;
+padding: 10px;
+}
+
+th {
+color: white;
+background: #233237;
+height:50px;
+vertical-align: middle;
+}
+
 html {
   font-size: 100%;
 }
 
 body {
-	background: $white;
+	background: #1f5ec4;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #e82027;
 }
 
 .container {
