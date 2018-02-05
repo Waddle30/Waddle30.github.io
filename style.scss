@@ -13,6 +13,10 @@
 /* BASE RULES */
 /**************/
 
+body
+	background-image: url("http://aetherforce.com/wp-content/uploads/2015/01/penroseani2.gif");
+
+
 table {
 border-collapse: collapse;
 width: 100%;
@@ -30,7 +34,6 @@ padding: 10px;
 
 th {
 color: white;
-background-image: url("http://aetherforce.com/wp-content/uploads/2015/01/penroseani2.gif");
 height:10px;
 vertical-align: middle;
 }
