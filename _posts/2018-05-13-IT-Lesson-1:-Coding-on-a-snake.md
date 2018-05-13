@@ -20,7 +20,7 @@ published: true
 
 <table>
   <tr>
-    <thd>Starting point:</th>
+    <th>Starting point:</th>
     <td>loading up codecademy</td>
   </tr>
   <tr>
@@ -28,8 +28,8 @@ published: true
     <td>to get to part 10 in section one</td>
   </tr>
   <tr>
-    <thd>Did I reach my target? 
-(add details to "Lesson Review")</thd>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>Yes, I ended on part 14, the last part of section 1</td>
   </tr>
 </table>
