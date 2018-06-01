@@ -10,9 +10,9 @@ published: true
 
 <table>
   <tr>
-    <th>Title</th>
+    <td>Title</td>
     <td>Coding on a snake</td>
-    <th>Date</th>
+    <td>Date</td>
     <td>30/04/18</td>
   </tr>
 </table>
@@ -20,16 +20,16 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</th>
+    <td>Starting point:</td>
     <td>loading up codecademy</td>
   </tr>
   <tr>
-    <th>Target for this lesson?</th>
+    <td>Target for this lesson?</td>
     <td>to get to part 10 in section one</td>
   </tr>
   <tr>
-    <th>Did I reach my target? 
-(add details to "Lesson Review")</th>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
     <td>Yes, I ended on part 14, the last part of section 1</td>
   </tr>
 </table>
@@ -37,22 +37,22 @@ published: true
 
 <table>
   <tr>
-    <th>Lesson Review</th>
+    <td>Lesson Review</td>
   </tr>
   <tr>
-    <th>How did I learn? What strategies were effective? </th>
+    <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Today, we started doing python, on codecademy. Unlike fuze, we did this by ourselves. Since I wasn't there last week, I had some catching up to do. I put my head down and was completing the sections fast, with a bit of help from Conor, the person I was sitting next to. I ended on section 14 of area.</td>
+    <td>Today, we started doing python, on codecademy. Unlike fuze, we did this by ourselves. Since I wasn't there last week, I had some catching up to do. I put my head down and was completing the sections fast, with a bit of help from Conor, the person I was sitting next to. I ended on section 14 of area 1.</td>
   </tr>
   <tr>
-    <th>What limited my learning? Which habits do I need to work on? </th>
+    <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
     <td>what limited my learning was the fact that I started one week later than others. I quickly had to set up an account on codecademy. However, I managed to almost complete section one, which I am quite happy with.</td>
   </tr>
   <tr>
-    <th>What will I change for next time? How will I improve my learning?</th>
+    <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
     <td>next time, I won’t have to set up an account, and since I know what I’m doing in python, I can hopefully complete area 2 in python on codecademy.</td>
